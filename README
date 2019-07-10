@@ -1,0 +1,13 @@
+This is a helper program suggests words with th entered letter.
+
+------------------------------------------------------------------
+example:
+Based on the available vocablary in dictionary (example dictionary.txt).
+
+when user enters > an
+                   helper to display: 
+		                      and
+                                      ant
+		   		      answer
+------------------------------------------------------------------
+
